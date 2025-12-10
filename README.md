@@ -1,18 +1,10 @@
----
-title: Splay Network Tracking & Detection
-emoji: 🦁
-colorFrom: green
-colorTo: blue
-sdk: docker
-pinned: false
-license: mit
----
+
 
 # Energy-Efficient Wildlife Tracking Using a Splay Tree Inspired Clustering Policy and Vision-Aided Analytics
 
 This project implements a cohesive system that combines **Splay Network Algorithms** for efficient sensor communication with **Real-Time AI Computer Vision** for wildlife tracking. It is designed to simulate a high-tech conservation network where "Edge Nodes" (sensors) capture low-resolution data, and a central "Server" restores and analyzes it.
 
-## 🌟 Key Features
+## Key Features
 
 ### 1. Splay Network Simulation (The Backbone)
 - **Dynamic Clustering**: Visualizes how sensor nodes self-organize into clusters to save energy.
@@ -27,7 +19,7 @@ This project implements a cohesive system that combines **Splay Network Algorith
 - **Object Detection**: Utilizing **YOLOv8** (Nano) to identify animals in the restored feed.
 - **Tracking**: Implementing **DeepSORT** to assign unique IDs to animals and track their movement across frames.
 
-## 🚀 How to Run
+## How to Run
 
 ### Option 1: Live Demo (Hugging Face)
 This project is deployed on Hugging Face Spaces for high-performance AI inference.
@@ -60,7 +52,7 @@ This project is deployed on Hugging Face Spaces for high-performance AI inferenc
 - **AI/ML**: PyTorch, Ultralytics YOLOv8, DeepSORT, OpenCV
 - **Deployment**: Docker, Hugging Face Spaces
 
-## 📂 Project Structure
+## Project Structure
 - `app.py`: Main Flask server endpoints.
 - `simulation.py`: Logic for Splay Network nodes, energy, and routing.
 - `detection.py`: AI pipeline (SwinIR Restoration + YOLO Detection + DeepSORT).
@@ -68,5 +60,5 @@ This project is deployed on Hugging Face Spaces for high-performance AI inferenc
 - `templates/`: HTML frontend interface.
 
 ---
-**Created by John Osborne**
+**Created by John Osborne J **
 *Powered by Splay Algorithms & Modern AI*
