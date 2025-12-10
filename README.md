@@ -33,6 +33,9 @@ This project implements a cohesive system that combines **Splay Network Algorith
 This project is deployed on Hugging Face Spaces for high-performance AI inference.
 [**View Live Demo**](https://huggingface.co/spaces/johnosborne/splay-network-tracking-detection)
 
+![Demo Preview](demo_preview.png)
+
+
 ### Option 2: Run Locally
 1.  **Clone the Repository**:
     ```bash
