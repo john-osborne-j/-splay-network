@@ -8,7 +8,7 @@ pinned: false
 license: mit
 ---
 
-# Splay Network: Advanced Wildlife Monitoring & Simulation
+# Energy-Efficient Wildlife Tracking Using a Splay Tree Inspired Clustering Policy and Vision-Aided Analytics
 
 This project implements a cohesive system that combines **Splay Network Algorithms** for efficient sensor communication with **Real-Time AI Computer Vision** for wildlife tracking. It is designed to simulate a high-tech conservation network where "Edge Nodes" (sensors) capture low-resolution data, and a central "Server" restores and analyzes it.
 
